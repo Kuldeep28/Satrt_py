@@ -1,0 +1,8 @@
+matplotlib can be considered both the benchmark and the workhorse when it comes
+to data visualization in Python. It is tightly integrated with NumPy and the basic func‐
+tionality is easily and conveniently accessed. However, on the other hand, matplotlib
+is a rather mighty library with a somewhat complex API. This makes it impossible to
+give a broader overview of all the capabilities of matplotlib in this chapter.
+This chapter introduces the basic functions of matplotlib for 2D and 3D plotting useful
+in most financial contexts. Other chapters provide further examples of how to use this
+fundamental library for visualization.
